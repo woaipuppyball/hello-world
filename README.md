@@ -1,2 +1,4 @@
 # hello-world
-v1.0
+
+This is for tracking my excercises of Learn Python the Hard Way.
+
