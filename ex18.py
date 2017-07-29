@@ -1,4 +1,6 @@
+#create a function
 def print_two(*args):
+    # start indenting
     arg1, arg2 = args
     print "arg1: %r, arg2: %r" % (arg1, arg2)
 
